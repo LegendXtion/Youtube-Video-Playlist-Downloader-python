@@ -5,8 +5,11 @@ Download Single Video/Multiple Video/Single Playlist/Multiple Playlist using Pyt
 You can download Single Video, Multiple Video, Single Playlist, Multiple Playlist using this user driven program.
 
 ## To Install
+### To clone
 `git clone https://github.com/LegendXtion/Youtube-Video-Playlist-Downloader-python.git`
-`cd cd Youtube-Video-Playlist-Downloader-python`
+### Change directory
+`cd Youtube-Video-Playlist-Downloader-python`
+### Installing required packages
 `pip install -r requirement.txt`
 
 ## To Run 
